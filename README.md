@@ -13,12 +13,3 @@
 <a href="https://solved.ac/bindev">
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=bindev" height="150" />
 </a>
-
----
-
-### 🛠 Tech & Projects
-**"Vibe Coding"으로 세상에 필요한 가치를 만듭니다.**
-
-*   **Platform:** [Compactch](https://bindv.com) (학생 경진대회 추천 서비스)
-*   **Main Stack:** `Python (Flask)`, `Frontend (Three.js, Canvas)`, `AI Agent`
-*   **Role:** 학교 정보보안 동아리 회장 (ENTJ-A)
