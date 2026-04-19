@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- 상단 꾸미기 배너 -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=D97757&height=200&section=header&text=Bin%20Seung-hyeon&fontSize=70&animation=fadeIn" />
 
 ### 🚀 Leading the Next Digital Wave
 [![Website](https://img.shields.io/badge/bindv.com-D97757?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bindv.com)
